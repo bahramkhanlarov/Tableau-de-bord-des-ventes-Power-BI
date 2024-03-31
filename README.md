@@ -35,3 +35,5 @@ L'objectif du rapport est d'analyser et de présenter des informations complète
 *Analyse des ventes par client et comparaison avec l'année précédente* : Analysez les données de vente par client, en mettant en évidence les performances de chaque client et en les comparant à celles de l'année précédente.
 
 *Créer des tranches pour la date, la ville, le produit et le canal* : Permettez aux utilisateurs d'interagir avec les données en fournissant des tranches pour sélectionner des dates, des villes, des produits et des canaux spécifiques, ce qui permet un filtrage dynamique et une analyse personnalisée.
+
+Le reste des étapes est expliqué dans ce post linkedin: https://www.linkedin.com/article/edit/7179987940620554240/ 
