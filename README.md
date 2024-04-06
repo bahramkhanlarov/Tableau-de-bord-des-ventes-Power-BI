@@ -1,5 +1,6 @@
 # Tableau-de-bord-des-ventes-Power-BI
 
+https://app.powerbi.com/groups/me/reports/188c8f28-efe8-45f8-8bf8-8ce06bacc180/ReportSection?experience=power-bi
 
 ![Capture](https://github.com/bahramkhanlarov/Tableau-de-bord-des-ventes-Power-BI/assets/94859755/e022f97f-6607-45bd-a6e2-2eed1e02a528)
 
