@@ -4,6 +4,12 @@ https://app.powerbi.com/groups/me/reports/188c8f28-efe8-45f8-8bf8-8ce06bacc180/R
 
 ![Capture](https://github.com/bahramkhanlarov/Tableau-de-bord-des-ventes-Power-BI/assets/94859755/e022f97f-6607-45bd-a6e2-2eed1e02a528)
 
+## Structure de projet
+
+
+<img width="194" alt="Screenshot 2024-06-12 at 22 29 45" src="https://github.com/bahramkhanlarov/Tableau-de-bord-des-ventes-Power-BI/assets/94859755/8b6c3203-0186-43f2-9c74-13dd5e3f5a91">
+
+
 
 ## Objectif du tableau de bord des ventes / Problème Commercial
 
