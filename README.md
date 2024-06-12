@@ -36,3 +36,34 @@ L'objectif du rapport est d'analyser et de présenter des informations complète
 *Créer des tranches pour la date, la ville, le produit et le canal* : Permettez aux utilisateurs d'interagir avec les données en fournissant des tranches pour sélectionner des dates, des villes, des produits et des canaux spécifiques, ce qui permet un filtrage dynamique et une analyse personnalisée.
 
 Le reste des étapes est expliqué dans ce post linkedin: https://www.linkedin.com/article/edit/7179987940620554240/ 
+
+
+##  Conclusions tirées du tableau de bord des ventes :
+
+**Resultas pour l'année 2019:**
+
+- Les ventes ont diminué de plus de 10 %
+- Il y a une baisse des ventes pour les 7 principaux produits
+- 4 clients sont responsables de la baisse des ventes
+- La marge de profit dans le canal d'exportation est plus élevée
+
+**Résultats Globaux :**
+
+-Ventes Totales : Les ventes totales s'élèvent à 48,53 millions de dollars.
+-Profit Total : Le profit total est de 18,32 millions de dollars.
+-Marge de Profit : La marge de profit est de 37,76 %.
+-Produits Vendus : Le nombre total de produits vendus est de 21,374 millions.
+
+**Ventes et Profits par Produit :**
+  
+- Principaux Clients :
+- Les clients principaux incluent Medline, Capweld, Pure Group, 21st Ltd, U.S. Ltd, etc.
+- Les ventes et les profits générés par chaque client sont présentés, indiquant la contribution de chaque client au total des ventes et des profits.
+- Ventes par Ville :
+
+- Christchurch : 4,31 millions de dollars (26,01 % des ventes).
+- Waitakere : 3,49 millions de dollars (21,06 % des ventes).
+- Hamilton : 3,32 millions de dollars (20,07 % des ventes).
+- Manukau : 2,74 millions de dollars (16,56 % des ventes).
+- Napier : 2,7 millions de dollars (16,3 % des ventes).
+
